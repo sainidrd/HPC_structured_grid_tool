@@ -1,6 +1,5 @@
-\section*{C.1 Grid Generation for a Cavity with an Axial-Through Flow}
 
-We have developed a structured grid-generation tool for a cavity with an axial-through flow, based on the elliptic-grid method proposed by Eça \cite{eca85}.  Among the various grid-quality metrics, orthogonality is the most critical—and the hardest to achieve in complex geometries.  In this approach, the mesh coordinates \((x,y)\) are obtained by solving the following coupled elliptic equations:
+The repository includes a structured grid-generation tool for a cavity with an axial-through flow, based on the elliptic-grid method.  Among the various grid-quality metrics, orthogonality is the most critical—and the hardest to achieve in complex geometries.  In this approach, the mesh coordinates \((x,y)\) are obtained by solving the following coupled elliptic equations:
 
 \begin{subequations}\label{eq:ellipticGrid}
 \begin{align}
