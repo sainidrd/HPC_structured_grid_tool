@@ -42,5 +42,4 @@ We initialize \(f\) via transfinite interpolation, then iterate the above equati
 
 # References
 - [1] Saini, Deepak, and Richard D. Sandberg. "Large-eddy simulations of high rossby number flow in the high-pressure compressor inter-disk cavity." Journal of Turbomachinery 143, no. 11 (2021): 111002.
-- [2] Saini, Deepak. 2021. ‘Characterization of Fluid Flow and Heat Transfer in Rotating Convection Systems’. Thesis: The University of Melbourne, Available at:https://www.researchgate.net/publication/392104527_Thesis_Deepak_Saini?channel=doi&linkId=683531ad6b5a287c3045ff15&showFulltext=true
-
+- [2] Saini, Deepak. 2021. ‘Characterization of Fluid Flow and Heat Transfer in Rotating Convection Systems’. Thesis: The University of Melbourne, Available at: https://www.researchgate.net/publication/392104527_Characterization_of_Fluid_Flow_and_Heat_Transfer_in_Rotating_Convection_Systems
