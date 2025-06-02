@@ -43,7 +43,7 @@ We initialize \(f\) via transfinite interpolation, then iterate the above equati
 ## Citations
 
 If you use or build upon this grid‐generation tool, please cite the following:
-
+```python
 @article{saini2021large,
   title={Large-eddy simulations of high rossby number flow in the high-pressure compressor inter-disk cavity},
   author={Saini, Deepak and Sandberg, Richard D},
@@ -61,7 +61,7 @@ If you use or build upon this grid‐generation tool, please cite the following:
   year={2021},
   school={UNIVERSITY OF MELBOURNE}
 }
-
+```
 
 
 # References
