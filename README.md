@@ -1,5 +1,6 @@
 
-The repository includes a structured grid-generation tool for a cavity with an axial-through flow, based on the elliptic-grid method.  Among the various grid-quality metrics, orthogonality is the most critical—and the hardest to achieve in complex geometries.  In this approach, the mesh coordinates \((x,y)\) are obtained by solving the following coupled elliptic equations:
+The repository includes a generalized structured grid-generation tool developed for high-fidelity simulations (LES/DNS), based on an elliptic grid-generation method with precise control over mesh growth rate and quality. Among standard grid-quality metrics, orthogonality is particularly critical in ensuring numerical accuracy and stability, especially in complex geometries.
+In this approach, the mesh coordinates \((x,y)\) are obtained by solving the following coupled elliptic equations:
 
 
 ## Elliptic Grid Equations
